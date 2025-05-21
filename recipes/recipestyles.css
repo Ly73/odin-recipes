@@ -1,0 +1,106 @@
+body{
+    background-color: rgb(255, 226, 153);
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+h1{
+    color: mintcream;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    margin-top: 0;
+    background-color: rgb(117, 5, 5);
+    box-shadow: 0px 0px 10px 10px rgb(117, 5, 5);
+    text-shadow: 0px 0px 10px chocolate, 0px 0px 10px chocolate;
+    position: fixed;
+}
+
+li{
+    margin: 10px;
+}
+
+img{
+    display: block;
+    width: 70%;
+    max-width: 500px;
+    margin: auto;
+    margin-top: 40px;
+    padding: 10px;
+    box-shadow: 0px 0px 10px 10px rgb(117, 5, 5);
+    background-color: rgb(117, 5, 5);
+}
+
+.image{
+    margin: 0;
+    max-width: 40%;
+    width: 40%;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+section{
+    margin: 30px;
+    margin-top: 40px;
+    color: rgb(37, 41, 95);
+}
+
+article{
+    margin: 30px;
+    max-width: 95%;
+    min-width: 150px;
+}
+
+.ingredients{
+    color: rgb(110, 77, 55);
+    border-width: 5px;
+    border-style: solid;
+    float: left;
+    width: 25%;
+    border-color: rgb(224, 198, 177);
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    margin-right: 40px;
+}
+
+.ingredient{
+    text-align: center;
+}
+
+hr{
+    text-align: center;
+    border-width: 1px;
+    border-color: rgb(224, 198, 177);
+}
+
+button{
+    margin: 10px;
+}
+
+h3{
+    font-size: 22px;
+}
+
+p{
+    margin: 20px;
+}
+
+.directions{
+    justify-self: center;
+    padding: 20px;
+    padding-top: 0;
+    color: rgb(110, 77, 55);
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(224, 198, 177);
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    max-width: 800px;
+}
+
+ul{
+    margin-right: 30px;
+}
